@@ -11,7 +11,7 @@ A estrutura visual que este projeto apresenta é exatamente a mesma desenvolvida
 Minhas alterações basicamente foram:
 - No padrão cromático da página.
   Pois, como queria dar uma cara mais na proposta "tech", eu troquei a imagem de fundo, 
-  na <Hero Section> que precisava dessa alteração cromática pra ficar contextualizado;
+  na " - Hero Section - " que precisava dessa alteração cromática pra ficar contextualizado;
 
 - Todas as interações de passar o mouse(:hover):
   Também foram alteradas de cor para seguir esse contexto cromático;
@@ -19,10 +19,10 @@ Minhas alterações basicamente foram:
 - OS pictogramas tambbém foram modificados na cor:
   Para acompanhar este critério cromático;
 
-- Inserção da minha foto de perfil, da <About Section>,
+- Inserção da minha foto de perfil, da " - About Section - ",
   que é buscada na minha foto de perfil do meu perfil do github;
 
-- Na <Portfolio Section>:
+- Na "- Portfolio Section - ":
   1. Os textos foram produzidos para apresentar cada projeto aproesentado;  
   2. Substituí os links, que leva para os projetos desenvolvidos nas outras aulas,
      que eram apenas o próprio link com o texto link, para um botão chamado do bootsrap 
@@ -30,5 +30,9 @@ Minhas alterações basicamente foram:
 
 
 Este Projeto/Portfólio está implantando (deployment) na página do github através do link: https://felipedidio.github.io/portifolioMaisPraTi/
+
+Gostaria de agradecer a oportunidade até aqui e nos vemos na proxima etapa em REACT.js!!
+
+Abraços!
 
 
