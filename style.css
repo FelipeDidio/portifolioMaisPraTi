@@ -1,11 +1,11 @@
 #sobre, #servicos, #portifolio, #contato{
-    padding: 10rem 0;
+    padding: 7rem 0;
 }
 
 .bgimage{
     height: 100vh;
     position: relative;
-    background: url("images/heroImagem.jpg");
+    background: url("images/colmeiaTech.jpg");
     background-size: cover;
 }
 
@@ -45,15 +45,15 @@
     text-align: center;
 }
 .card:hover .servicesIcon{
-    color: #008000;
+    color: #0D0746;
 }
 .servicesText:hover{
-    border: 1px solid #008000;
+    border: 1px solid #1C3983;
 }
 
 /* Estilização do cabeçalho*/
 .navbar{
-    background-color: #006342;
+    background-color: #1c3983;
 }
 .navbar a{
     color: white;
@@ -67,11 +67,12 @@
 
 .contactIcon {
     font-size: 2.5rem;
-    color: #006342;
+    color: #1C3983;
+    padding: 1rem;
 }
 
 footer {
-    background-color: #003020;
+    background-color: #1C3983;
 }
 
 .footerIcon {
@@ -84,7 +85,7 @@ footer {
 }
 
 .footerDev {
-    background-color: #006342;
+    background-color: #141722;
 }
 
 .glass {
@@ -96,8 +97,8 @@ footer {
     transform: translate(-50%, -50%);
 
     /* From https://css.glass */
-    background: rgba(115, 242, 84, 0.25);
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    background: #1b155840;
+    box-shadow: 0 4px 30px #0D0746;
     backdrop-filter: blur(6.8px);
     -webkit-backdrop-filter: blur(6.8px);
 }
